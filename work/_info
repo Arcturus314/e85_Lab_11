@@ -1,0 +1,562 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.0
+vadder
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1512044810
+!i10b 1
+!s100 lL[13bJ?nWX>MaML?k2iF3
+IzUM_@EIeKlOB;I2aD@2]a2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+Z3 dC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11
+w1512034365
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/adder.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/adder.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1512044810.000000
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/adder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/adder.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+valu
+R0
+Z8 !s110 1512044809
+!i10b 1
+!s100 XiJ:9zYK6OB@IJg[W^M_;2
+IWGLO?A<5QdnI:WgVBhSZP1
+R2
+!s105 alu_sv_unit
+S1
+R3
+w1512029629
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/alu.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/alu.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1512044809.000000
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/alu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/alu.sv|
+!i113 1
+R6
+R7
+valudecode
+R0
+R1
+!i10b 1
+!s100 5I08o;7bz3hBXdXSU@4zi2
+I3^D2;Lz1DR?zf4;DfQf7D2
+R2
+!s105 aludecode_sv_unit
+S1
+R3
+w1511753947
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/aludecode.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/aludecode.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/aludecode.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/aludecode.sv|
+!i113 1
+R6
+R7
+varm
+R0
+Z10 !s110 1512034710
+!i10b 1
+!s100 =YmcePn;H0LW[4hniS]^_2
+IX=[P2N9Iz6Wm]OhSQo[PL3
+R2
+!s105 arm_sv_unit
+S1
+R3
+w1512029888
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/arm.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/arm.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z11 !s108 1512034710.000000
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/arm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/arm.sv|
+!i113 1
+R6
+R7
+varm_multi
+R0
+R1
+!i10b 1
+!s100 Q^zMR5FFOgQB0499O9BcA1
+I9M_5P>c`DlY<L6i2=ZVj82
+R2
+!s105 arm_multi_sv_unit
+S1
+R3
+w1512034177
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/arm_multi.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/arm_multi.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/arm_multi.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/arm_multi.sv|
+!i113 1
+R6
+R7
+vcondcheck
+R0
+R1
+!i10b 1
+!s100 C8N>n^@FKVeKY8]17FQP93
+Im^0GJ[C6Z>iOW^jP8f:Vk2
+R2
+!s105 condcheck_sv_unit
+S1
+R3
+w1511739213
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/condcheck.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/condcheck.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/condcheck.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/condcheck.sv|
+!i113 1
+R6
+R7
+vcondlogic
+R0
+R1
+!i10b 1
+!s100 `I5gha6T`blYN8<ACFjj=3
+IZMkCDW8_W:<L5hI?z3a[I1
+R2
+Z12 !s105 condlogic_sv_unit
+S1
+R3
+Z13 w1511758462
+Z14 8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/condlogic.sv
+Z15 FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/condlogic.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+Z16 !s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/condlogic.sv|
+Z17 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/condlogic.sv|
+!i113 1
+R6
+R7
+vcontroller
+R0
+Z18 !s110 1512044811
+!i10b 1
+!s100 jPbfSM3aR_:>ZmOaj]bCS3
+Ib@BNEkBE8:1=QJSA@M9Wn3
+R2
+!s105 controller_sv_unit
+S1
+R3
+w1511927481
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/controller.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/controller.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z19 !s108 1512044811.000000
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/controller.sv|
+!i113 1
+R6
+R7
+vcontrollersm
+R0
+R18
+!i10b 1
+!s100 gdAh=Ji5TKF^615NbL3<80
+ILU4<?3ok:jW:dY;47Y<JW3
+R2
+!s105 controllersm_sv_unit
+S1
+R3
+w1512044804
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/controllersm.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/controllersm.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/controllersm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/controllersm.sv|
+!i113 1
+R6
+R7
+vdatapath
+R0
+R1
+!i10b 1
+!s100 UiRYg[HbXbgFSQeH`fCWY1
+IzgQ0:CeTeVJJzA=?=QfPL0
+R2
+!s105 datapath_sv_unit
+S1
+R3
+w1512035010
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/datapath.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/datapath.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/datapath.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/datapath.sv|
+!i113 1
+R6
+R7
+vdecoder
+R0
+R18
+!i10b 1
+!s100 MjH@I^enn1DaeZoOOKiil2
+I0>G4D]5RefA2cfTMJ2W=>2
+R2
+!s105 decoder_sv_unit
+S1
+R3
+w1511760823
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/decoder.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/decoder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/decoder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/decoder.sv|
+!i113 1
+R6
+R7
+vextend
+R0
+R1
+!i10b 1
+!s100 ol9?k[VSn4Bdk0[zbhP3g1
+IVX;YDEGiGDHC2i]M71k_]0
+R2
+!s105 extend_sv_unit
+S1
+R3
+w1512029746
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/extend.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/extend.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/extend.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/extend.sv|
+!i113 1
+R6
+R7
+vflopenr
+R0
+R1
+!i10b 1
+!s100 7`ABF3PRgFdOkT^LWzdPl3
+IELmo3XNIl3IQzXT^IS[2X1
+R2
+R12
+S1
+R3
+R13
+R14
+R15
+L0 26
+R4
+r1
+!s85 0
+31
+R5
+R16
+R17
+!i113 1
+R6
+R7
+vflopr
+R0
+R1
+!i10b 1
+!s100 AOcehC1ZUkWdP]XlTQB<10
+I:D:Tgbhh7j3Y_jggFA6>d0
+R2
+!s105 flopr_sv_unit
+S1
+R3
+w1512029943
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/flopr.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/flopr.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/flopr.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/flopr.sv|
+!i113 1
+R6
+R7
+vimem
+R0
+R10
+!i10b 1
+!s100 863XFY=n^o3o6E<=kS70:2
+IPDanEmd;T4Sb>E_=1Gm700
+R2
+!s105 IMEM_SV_unit
+S1
+R3
+w1512029867
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/IMEM.SV
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/IMEM.SV
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/IMEM.SV|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/IMEM.SV|
+!i113 1
+R6
+R7
+vinstrdecode
+R0
+R1
+!i10b 1
+!s100 <zD188QGAS9k>B]PN`ihN2
+I5kXzW[EmO?Gog^:0DmZfY0
+R2
+!s105 instrdecode_sv_unit
+S1
+R3
+w1511760813
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/instrdecode.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/instrdecode.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/instrdecode.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/instrdecode.sv|
+!i113 1
+R6
+R7
+vmem
+R0
+R1
+!i10b 1
+!s100 K[nC5z`[h?4]g=^Rh;Z@m0
+I5Nm=WFoIB]IaeWSWJNG:C0
+R2
+!s105 mem_sv_unit
+S1
+R3
+w1512031218
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mem.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mem.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mem.sv|
+!i113 1
+R6
+R7
+vmux2
+R0
+R8
+!i10b 1
+!s100 EbLj7hTT[VR0Amz@N_6;Z2
+IO@VgEkGPe<WkOmRfkLf5G1
+R2
+!s105 mux2_sv_unit
+S1
+R3
+w1512029959
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mux2.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mux2.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mux2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mux2.sv|
+!i113 1
+R6
+R7
+vmux3
+R0
+R8
+!i10b 1
+!s100 o50e=J1>Y=WjV>QhQ5[Nl2
+IS5mIcUBeQR2c>30A7ii8S1
+R2
+!s105 mux3_sv_unit
+S1
+R3
+w1512030621
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mux3.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mux3.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mux3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/mux3.sv|
+!i113 1
+R6
+R7
+vpclogic
+R0
+R18
+!i10b 1
+!s100 ^NjKo`BDz958XFGDl4?0E0
+I109SV`j?QDc5z8M[DRRm53
+R2
+!s105 pclogic_sv_unit
+S1
+R3
+w1511753930
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/pclogic.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/pclogic.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/pclogic.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/pclogic.sv|
+!i113 1
+R6
+R7
+vregfile
+R0
+R8
+!i10b 1
+!s100 UNMfcMVz?=54`7KoD[i^[2
+Ije32PfZh0`CFaz<B7WNB;0
+R2
+!s105 regfile_sv_unit
+S1
+R3
+w1512029762
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/regfile.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/regfile.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/regfile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/regfile.sv|
+!i113 1
+R6
+R7
+vtestbench
+R0
+R1
+!i10b 1
+!s100 PN265Z2=HH;=9Mf6:VOMl2
+I4QbGoG>G1;NWLP^KhmiL12
+R2
+!s105 testbench_sv_unit
+S1
+R3
+w1512041903
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/testbench.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/testbench.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/testbench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/testbench.sv|
+!i113 1
+R6
+R7
+vtop
+R0
+R8
+!i10b 1
+!s100 JYZN95GOQohPhOjBW92Kb1
+IQOY99k394mSgW<aACTGao2
+R2
+!s105 top_sv_unit
+S1
+R3
+w1512041468
+8C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/top.sv
+FC:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/top.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kaveh Pezeshki/Documents/E85_Lab_11/top.sv|
+!i113 1
+R6
+R7
